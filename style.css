@@ -1,0 +1,108 @@
+.main {
+    width: 1330px;
+    background-color:blue;
+    height: 20 px;
+   
+   
+}
+.pics{
+    display: inline-block;
+    margin-left: 100px;
+}
+p{
+    display: inline;
+    text-align: center;
+padding: 1em;
+}
+img {
+margin: 10px auto 10px auto; 
+border-collapse: collapse;
+}
+input {
+    height: 30px;
+    text-align: center;
+    width: 8em;
+    margin: 10px auto 10px auto;
+    margin-right: 20px;
+}
+
+
+
+.sec{
+    
+    display: flex;
+}
+
+.area {
+    display: flex;
+    display: inline-flex;
+
+    padding-left: 80px;
+    margin-top: 20px;
+    
+    
+    margin-right: 20px;
+}
+.drop{
+    
+    margin-left: 5px;
+    border-radius: 20px;
+    height: 25px;
+    width: 120px;
+    background-color:white;
+    color: black;
+    border: none;
+    margin-top: 5px ;
+    font-size: 15px;
+
+    
+}
+.drop:hover{
+    background-color: blue;
+    border: none;
+}
+
+#dropdownMenuButton {
+    height: 25px;
+    width: 130px;
+    border-radius: 20px;
+    margin-left: 10px;
+    background-color: white;
+    color: black;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 25px;
+    font-size: 15px;
+  
+
+}
+
+#dropdownMenuButton:hover{
+    background-color: blue;
+    border: none;
+}
+
+
+
+
+
+
+
+
+.news1 {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+
+    background-color: blue;
+    width: 1200px;
+    height: 30px;
+  color: azure;
+    position: absolute;
+    left: 5%;
+    right: 5%;
+    
+
+}
+
+
